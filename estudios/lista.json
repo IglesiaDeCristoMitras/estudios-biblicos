@@ -8,11 +8,12 @@
     "imagen": "https://img.freepik.com/foto-gratis/espiritualidad-religion-manos-juntas-oracion-santa-biblia-concepto-iglesia-fe_1150-14892.jpg"
   },
   {
-    "id": "estudio2",
-    "titulo": "¿Cómo puedo ser salvo?",
-    "autor": "Josué García",
-    "fecha": "2025-11-10",
-    "resumen": "Por qué el ser humano necesita ser salvo y cuál es el plan que Dios estableció para que podamos alcanzar el perdón de los pecados y la vida eterna en Cristo Jesús.",
-    "imagen": "https://pensamientopentecostalarminiano.org/wp-content/uploads/2020/10/image_search_16016829188763103999770432327345.jpg?w=584"
-  }
+  "id": "estudio2",
+  "titulo": "¿Qué es el Nuevo Nacimiento?",
+  "autor": "Daniel Espinosa",
+  "fecha": "2025-08-30",
+  "resumen": "Por qué es necesario, qué significa espiritualmente y cómo se experimenta según las enseñanzas de Jesús.",
+  "imagen": "https://raw.githubusercontent.com/IglesiaDeCristoMitras/estudios-biblicos/8fe53fdf5e66bc3b8459f7f56ceaa9a941f0f6b6/estudios/img/estudio2.png"
+}
+
 ]
