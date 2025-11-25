@@ -7,14 +7,14 @@
     "resumen": "Explora las omisiones y cambios de la NVI que afectan la comprensión de la divinidad de Cristo, la salvación y su segunda venida.",
     "imagen": "https://raw.githubusercontent.com/IglesiaDeCristoMitras/estudios-biblicos/main/estudios/img/estudio1.jpg"
   },
-{
-  "id": "estudio2",
-  "titulo": "El nuevo nacimiento (1ª lección)",
-  "autor": "Daniel Espinosa",
-  "fecha": "2025-05-01",
-  "resumen": "Explica cómo el nuevo nacimiento transforma al creyente desde adentro, mostrando por qué nadie puede ver ni entrar en el Reino sin esto",
-  "imagen": "https://raw.githubusercontent.com/IglesiaDeCristoMitras/estudios-biblicos/main/estudios/img/estudio2.png"
-},
+  {
+    "id": "estudio2",
+    "titulo": "El nuevo nacimiento (1ª lección)",
+    "autor": "Daniel Espinosa",
+    "fecha": "2025-05-01",
+    "resumen": "Explica cómo el nuevo nacimiento transforma al creyente desde adentro, mostrando por qué nadie puede ver ni entrar en el Reino sin esto",
+    "imagen": "https://raw.githubusercontent.com/IglesiaDeCristoMitras/estudios-biblicos/main/estudios/img/estudio2.png"
+  },
   {
     "id": "estudio3",
     "titulo": "El nuevo pacto",
