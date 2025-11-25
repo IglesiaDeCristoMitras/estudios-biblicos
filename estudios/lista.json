@@ -14,7 +14,15 @@
   "fecha": "2025-11-18",
   "resumen": "Explica cómo el nuevo nacimiento transforma al creyente desde adentro, mostrando por qué nadie puede ver ni entrar en el Reino sin esta obra espiritual que Dios realiza mediante su Palabra.",
   "imagen": "https://raw.githubusercontent.com/IglesiaDeCristoMitras/estudios-biblicos/main/estudios/img/estudio2.png"
-}
+},
+  {
+    "id": "estudio3",
+    "titulo": "El nuevo pacto",
+    "autor": "Daniel Espinosa",
+    "fecha": "2025-11-25",
+    "resumen": "Superior en revelación, mediación, sacerdocio y promesas: Una obra completa que supera al antiguo pacto",
+    "imagen": "https://raw.githubusercontent.com/IglesiaDeCristoMitras/estudios-biblicos/main/estudios/img/estudio3.jpg"
+  },
 
 
 ]
