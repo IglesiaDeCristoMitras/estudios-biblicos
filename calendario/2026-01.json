@@ -1,0 +1,36 @@
+[
+  {
+    "titulo": "Culto de hogar",
+    "fecha": "2026-01-17",
+    "hora": "17:00",
+    "lugar": "Paraje San Jose",
+    "direccion": "Paraje San José, sector montañas, 66023 Garcia, N.L.",
+    "tipo": "hogar",
+    "citaBiblica": "“Perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón.”  Hechos 2:46",
+    "maps": "https://maps.app.goo.gl/8Rc6dLQbGkPnhJt69",
+    "imagen": "https://plus.unsplash.com/premium_photo-1668197658521-1d5f97d60bcc?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3J1cG8lMjBkZSUyMGVzdHVkaW8lMjBiaWJsaWNvfGVufDB8fDB8fHww"
+  },
+  {
+    "titulo": "Reunion de varones",
+    "fecha": "2026-01-31",
+    "hora": "17:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "varones",
+    "citaBiblica": "“Velad, estad firmes en la fe; portaos varonilmente, y esforzaos.”  1 Corintios 16:13",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": "https://templocristiano.org/wp-content/uploads/2018/04/img2-3.jpg"
+  },
+    {
+    "titulo": "Estudio biblico",
+    "fecha": "2026-01-14",
+    "hora": "19:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "estudio",
+    "citaBiblica": "“Lámpara es a mis pies tu palabra, y lumbrera a mi camino.”  Salmo 119:105",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": "https://images.pexels.com/photos/10830304/pexels-photo-10830304.jpeg"
+  }
+ 
+]
