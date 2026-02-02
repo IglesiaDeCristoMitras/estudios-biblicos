@@ -6,7 +6,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "dominical",
-    "citaBiblica": "",
+    "citaBiblica": "“Escudriñad las Escrituras.” (Jn. 5:39)",
     "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
     "imagen": ""
   },
@@ -17,7 +17,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "general",
-    "citaBiblica": "",
+    "citaBiblica": "“El evangelio es poder de Dios.” (Ro. 1:16)",
     "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
     "imagen": ""
   },
@@ -29,7 +29,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "dominical",
-    "citaBiblica": "",
+    "citaBiblica": "“La fe viene por el oír.” (Ro. 10:17)",
     "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
     "imagen": ""
   },
@@ -40,7 +40,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "general",
-    "citaBiblica": "",
+    "citaBiblica": "“Cristo murió por nuestros pecados.” (1 Co. 15:3)",
     "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
     "imagen": ""
   },
@@ -52,7 +52,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "dominical",
-    "citaBiblica": "",
+    "citaBiblica": "“Desead la leche espiritual.” (1 P. 2:2)",
     "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
     "imagen": ""
   },
@@ -63,7 +63,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "general",
-    "citaBiblica": "",
+    "citaBiblica": "“Venid a mí todos.” (Mt. 11:28)",
     "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
     "imagen": ""
   },
@@ -75,7 +75,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "dominical",
-    "citaBiblica": "",
+    "citaBiblica": "“Tu palabra es verdad.” (Jn. 17:17)",
     "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
     "imagen": ""
   },
@@ -86,7 +86,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "general",
-    "citaBiblica": "",
+    "citaBiblica": "“Arrepentíos y creed.” (Mr. 1:15)",
     "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
     "imagen": ""
   },
@@ -97,7 +97,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "especial",
-    "citaBiblica": "",
+    "citaBiblica": "“Mirad cuán bueno es habitar los hermanos juntos.” (Sal. 133:1)",
     "maps": "",
     "imagen": ""
   },
@@ -109,7 +109,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "mujeres",
-    "citaBiblica": "",
+    "citaBiblica": "“La mujer sabia edifica su casa.” (Pr. 14:1)",
     "maps": "",
     "imagen": ""
   },
@@ -120,7 +120,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "mujeres",
-    "citaBiblica": "",
+    "citaBiblica": "“La mujer que teme a Jehová, ésa será alabada.” (Pr. 31:30)",
     "maps": "",
     "imagen": ""
   },
@@ -132,18 +132,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "estudio",
-    "citaBiblica": "",
-    "maps": "",
-    "imagen": ""
-  },
-  {
-    "titulo": "Estudio bíblico",
-    "fecha": "2026-02-11",
-    "hora": "19:00",
-    "lugar": "Iglesia de Cristo Mitras",
-    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
-    "tipo": "estudio",
-    "citaBiblica": "",
+    "citaBiblica": "“Lámpara es a mis pies tu palabra.” (Sal. 119:105)",
     "maps": "",
     "imagen": ""
   },
@@ -154,7 +143,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "estudio",
-    "citaBiblica": "",
+    "citaBiblica": "“Toda la Escritura es inspirada por Dios.” (2 Ti. 3:16)",
     "maps": "",
     "imagen": ""
   },
@@ -165,7 +154,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "estudio",
-    "citaBiblica": "",
+    "citaBiblica": "“Considerad bien vuestros caminos.” (Hag. 1:5)",
     "maps": "",
     "imagen": ""
   },
@@ -177,7 +166,7 @@
     "lugar": "Hogar Hna. Amanda",
     "direccion": "Paraje San José, sector montañas, 66023 García, N.L.",
     "tipo": "hogar",
-    "citaBiblica": "",
+    "citaBiblica": "“Sirve a Jehová con tu casa.” (Jos. 24:15)",
     "maps": "https://maps.app.goo.gl/8Rc6dLQbGkPnhJt69",
     "imagen": ""
   },
@@ -188,7 +177,7 @@
     "lugar": "Vuestros hogares",
     "direccion": "Monterrey, N.L.",
     "tipo": "general",
-    "citaBiblica": "",
+    "citaBiblica": "“Orad sin cesar.” (1 Ts. 5:17)",
     "maps": "",
     "imagen": ""
   },
@@ -200,7 +189,7 @@
     "lugar": "Iglesia de Cristo Mitras",
     "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
     "tipo": "varones",
-    "citaBiblica": "",
+    "citaBiblica": "“Portaos varonilmente, y esforzaos.” (1 Co. 16:13)",
     "maps": "",
     "imagen": ""
   },
@@ -211,7 +200,7 @@
     "lugar": "Vuestros hogares",
     "direccion": "Monterrey, N.L.",
     "tipo": "general",
-    "citaBiblica": "",
+    "citaBiblica": "“La oración eficaz del justo puede mucho.” (Stg. 5:16)",
     "maps": "",
     "imagen": ""
   }
