@@ -1,0 +1,218 @@
+[
+  {
+    "titulo": "Escuela dominical",
+    "fecha": "2026-02-01",
+    "hora": "10:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "escuela",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": ""
+  },
+  {
+    "titulo": "Culto de evangelización",
+    "fecha": "2026-02-01",
+    "hora": "11:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "culto",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": ""
+  },
+
+  {
+    "titulo": "Escuela dominical",
+    "fecha": "2026-02-08",
+    "hora": "10:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "escuela",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": ""
+  },
+  {
+    "titulo": "Culto de evangelización",
+    "fecha": "2026-02-08",
+    "hora": "11:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "culto",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": ""
+  },
+
+  {
+    "titulo": "Escuela dominical",
+    "fecha": "2026-02-15",
+    "hora": "10:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "escuela",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": ""
+  },
+  {
+    "titulo": "Culto de evangelización",
+    "fecha": "2026-02-15",
+    "hora": "11:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "culto",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": ""
+  },
+
+  {
+    "titulo": "Escuela dominical",
+    "fecha": "2026-02-22",
+    "hora": "10:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "escuela",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": ""
+  },
+  {
+    "titulo": "Culto de evangelización",
+    "fecha": "2026-02-22",
+    "hora": "11:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "culto",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": ""
+  },
+  {
+    "titulo": "Convivio fin de mes",
+    "fecha": "2026-02-22",
+    "hora": "13:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "convivio",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+
+  {
+    "titulo": "Reunión femenil",
+    "fecha": "2026-02-03",
+    "hora": "15:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "femenil",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+  {
+    "titulo": "Reunión femenil",
+    "fecha": "2026-02-17",
+    "hora": "15:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "femenil",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+
+  {
+    "titulo": "Culto de oración y estudio bíblico",
+    "fecha": "2026-02-04",
+    "hora": "19:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "estudio",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+  {
+    "titulo": "Culto de oración y estudio bíblico",
+    "fecha": "2026-02-11",
+    "hora": "19:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "estudio",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+  {
+    "titulo": "Culto de oración y estudio bíblico",
+    "fecha": "2026-02-18",
+    "hora": "19:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "estudio",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+  {
+    "titulo": "Culto de oración y estudio bíblico",
+    "fecha": "2026-02-25",
+    "hora": "19:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "estudio",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+
+  {
+    "titulo": "Culto de hogar",
+    "fecha": "2026-02-14",
+    "hora": "17:00",
+    "lugar": "Hogar Hna. Amanda",
+    "direccion": "Paraje San José, sector montañas, 66023 García, N.L.",
+    "tipo": "hogar",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/8Rc6dLQbGkPnhJt69",
+    "imagen": ""
+  },
+  {
+    "titulo": "Media hora de oración",
+    "fecha": "2026-02-14",
+    "hora": "22:00",
+    "lugar": "Hogar Hna. Amanda",
+    "direccion": "Paraje San José, sector montañas, 66023 García, N.L.",
+    "tipo": "oracion",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+
+  {
+    "titulo": "Reunión de varones",
+    "fecha": "2026-02-28",
+    "hora": "17:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "varones",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  },
+  {
+    "titulo": "Cadena de oración",
+    "fecha": "2026-02-28",
+    "hora": "22:00",
+    "lugar": "Iglesia de Cristo Mitras",
+    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
+    "tipo": "oracion",
+    "citaBiblica": "",
+    "maps": "",
+    "imagen": ""
+  }
+]
