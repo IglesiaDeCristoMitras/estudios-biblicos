@@ -205,14 +205,14 @@
   },
 
   {
-    "titulo": "Reunión de varones",
+    "titulo": "Culto de hogar",
     "fecha": "2026-02-28",
     "hora": "17:00",
-    "lugar": "Iglesia de Cristo Mitras",
-    "direccion": "Río Guayalejo 146, Mitras Nte., 64350 Monterrey, N.L.",
-    "tipo": "varones",
-    "citaBiblica": "“Portaos varonilmente, y esforzaos.” (1 Co. 16:13)",
-    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "lugar": "La morelos",
+    "direccion": "Col. Morelos, Monterrey, N.L.",
+    "tipo": "hogar",
+    "citaBiblica": "",
+    "maps": "https://maps.app.goo.gl/a9CVxrZyCCXbJ7L16",
     "imagen": "https://static.vecteezy.com/system/resources/thumbnails/041/451/283/small/ai-generated-a-christian-man-praying-to-god-crying-and-emotional-with-his-arms-raised-photo.jpg"
   },
   {
