@@ -4,7 +4,12 @@
     "fecha": "2026-03-07",
     "hora": "17:00",
     "lugar": "Casa club ",
-    "direccion": ""
+    "direccion": "",
+
+    "tipo": "matrimonios",
+    "citaBiblica": "“Escudriñad las Escrituras.” (Jn. 5:39)",
+    "maps": "https://maps.app.goo.gl/kNpj8N4RuZyxqzXx6",
+    "imagen": "https://wallpapers.com/images/hd/worship-background-3ukqhvso1yqs6xhv.jpg"
 
 }
 ]
